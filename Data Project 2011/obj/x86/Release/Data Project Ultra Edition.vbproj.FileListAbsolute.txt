@@ -1,0 +1,39 @@
+D:\SVN\Data Project 2011\Data Project 2011\bin\Release\Data Project Ultra Edition.exe.config
+D:\SVN\Data Project 2011\Data Project 2011\bin\Release\Data Project Ultra Edition.exe.manifest
+D:\SVN\Data Project 2011\Data Project 2011\bin\Release\Data Project Ultra Edition.application
+D:\SVN\Data Project 2011\Data Project 2011\bin\Release\Data Project Ultra Edition.exe
+D:\SVN\Data Project 2011\Data Project 2011\bin\Release\Data Project Ultra Edition.pdb
+D:\SVN\Data Project 2011\Data Project 2011\bin\Release\Data Project Ultra Edition.xml
+D:\SVN\Data Project 2011\Data Project 2011\bin\Release\BalfoursBusinessClassLibrary.dll
+D:\SVN\Data Project 2011\Data Project 2011\bin\Release\BalfoursBusinessExtensionLibrary.dll
+D:\SVN\Data Project 2011\Data Project 2011\bin\Release\System.dll
+D:\SVN\Data Project 2011\Data Project 2011\bin\Release\System.Drawing.dll
+D:\SVN\Data Project 2011\Data Project 2011\bin\Release\System.Windows.Forms.dll
+D:\SVN\Data Project 2011\Data Project 2011\bin\Release\System.Xml.dll
+D:\SVN\Data Project 2011\Data Project 2011\bin\Release\System.Xml.Linq.dll
+D:\SVN\Data Project 2011\Data Project 2011\bin\Release\Interop.SHDocVw.dll
+D:\SVN\Data Project 2011\Data Project 2011\bin\Release\BalfoursBusinessFileClassLibrary.dll
+D:\SVN\Data Project 2011\Data Project 2011\bin\Release\i00SpellCheck.exe
+D:\SVN\Data Project 2011\Data Project 2011\bin\Release\BlackRabbit Script.dll
+D:\SVN\Data Project 2011\Data Project 2011\bin\Release\i00BindingList.exe
+D:\SVN\Data Project 2011\Data Project 2011\bin\Release\BalfoursBusinessClassLibrary.pdb
+D:\SVN\Data Project 2011\Data Project 2011\bin\Release\BalfoursBusinessClassLibrary.xml
+D:\SVN\Data Project 2011\Data Project 2011\bin\Release\BalfoursBusinessExtensionLibrary.pdb
+D:\SVN\Data Project 2011\Data Project 2011\bin\Release\BalfoursBusinessExtensionLibrary.xml
+D:\SVN\Data Project 2011\Data Project 2011\bin\Release\BalfoursBusinessFileClassLibrary.pdb
+D:\SVN\Data Project 2011\Data Project 2011\bin\Release\BalfoursBusinessFileClassLibrary.xml
+D:\SVN\Data Project 2011\Data Project 2011\bin\Release\i00SpellCheck.pdb
+D:\SVN\Data Project 2011\Data Project 2011\bin\Release\BlackRabbit Script.pdb
+D:\SVN\Data Project 2011\Data Project 2011\bin\Release\BlackRabbit Script.xml
+D:\SVN\Data Project 2011\Data Project 2011\bin\Release\i00BindingList.pdb
+D:\SVN\Data Project 2011\Data Project 2011\obj\x86\Release\Data Project Ultra Edition.vbprojResolveAssemblyReference.cache
+D:\SVN\Data Project 2011\Data Project 2011\obj\x86\Release\Data_Project_Ultra_Edition.BBSplashScreen.resources
+D:\SVN\Data Project 2011\Data Project 2011\obj\x86\Release\Data_Project_Ultra_Edition.DataProjectMain.resources
+D:\SVN\Data Project 2011\Data Project 2011\obj\x86\Release\Data_Project_Ultra_Edition.DataProjectNotebook.resources
+D:\SVN\Data Project 2011\Data Project 2011\obj\x86\Release\Data_Project_Ultra_Edition.Resources.resources
+D:\SVN\Data Project 2011\Data Project 2011\obj\x86\Release\Data Project Ultra Edition.vbproj.GenerateResource.Cache
+D:\SVN\Data Project 2011\Data Project 2011\obj\x86\Release\Data Project Ultra Edition.exe.manifest
+D:\SVN\Data Project 2011\Data Project 2011\obj\x86\Release\Data Project Ultra Edition.application
+D:\SVN\Data Project 2011\Data Project 2011\obj\x86\Release\Data Project Ultra Edition.exe
+D:\SVN\Data Project 2011\Data Project 2011\obj\x86\Release\Data Project Ultra Edition.xml
+D:\SVN\Data Project 2011\Data Project 2011\obj\x86\Release\Data Project Ultra Edition.pdb
