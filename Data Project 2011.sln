@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Data Project Ultra Edition", "Data Project 2011\Data Project Ultra Edition.vbproj", "{519FBC91-2CFA-4D92-9C61-3BB35DB6258C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Data Project Ultra Edition setup", "Data Project Ultra Edition setup\Data Project Ultra Edition setup.vdproj", "{6179483A-0B2E-4575-A885-C011D5C914AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{519FBC91-2CFA-4D92-9C61-3BB35DB6258C}.Debug|x86.ActiveCfg = Debug|x86
+		{519FBC91-2CFA-4D92-9C61-3BB35DB6258C}.Debug|x86.Build.0 = Debug|x86
+		{519FBC91-2CFA-4D92-9C61-3BB35DB6258C}.Release|x86.ActiveCfg = Release|x86
+		{519FBC91-2CFA-4D92-9C61-3BB35DB6258C}.Release|x86.Build.0 = Release|x86
+		{6179483A-0B2E-4575-A885-C011D5C914AA}.Debug|x86.ActiveCfg = Debug
+		{6179483A-0B2E-4575-A885-C011D5C914AA}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
